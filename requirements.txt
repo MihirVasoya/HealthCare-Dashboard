@@ -3,3 +3,4 @@ plotly==5.14.1
 pandas==1.5.3
 hydralit-components == 1.0.10
 streamlit_option_menu== 0.3.6
+pandasql
