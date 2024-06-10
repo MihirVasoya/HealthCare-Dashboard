@@ -18,11 +18,13 @@ This project involves analyzing various datasets related to the AZD7442CE cohort
 #### Requirements
 
 Ensure you have the following Python packages installed:
+- streamlit
 - pandas
 - numpy
 - matplotlib
 - openpyxl (for reading Excel files)
 - seaborn
+  
 
 You can install these packages using pip:
 
